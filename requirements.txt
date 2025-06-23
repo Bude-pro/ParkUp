@@ -1,0 +1,11 @@
+﻿fastapi
+uvicorn[standard]
+geopy
+python-dotenv
+sqlalchemy
+scikit-learn
+numpy
+requests
+python-multipart
+pytz
+pydantic
